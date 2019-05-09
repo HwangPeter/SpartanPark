@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>408489905677-nvc7g2u54sjsau5r02mnsdbikfrlnuoi.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.408489905677-nvc7g2u54sjsau5r02mnsdbikfrlnuoi</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBzj1bHA1YumJGvv0VocPRc6W8stfwm47Q</string>
+	<key>GCM_SENDER_ID</key>
+	<string>408489905677</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.spartanpark.autolayout</string>
+	<key>PROJECT_ID</key>
+	<string>autolayout-bb566</string>
+	<key>STORAGE_BUCKET</key>
+	<string>autolayout-bb566.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false></false>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:408489905677:ios:6f2685e414bb488c</string>
+	<key>DATABASE_URL</key>
+	<string>https://autolayout-bb566.firebaseio.com</string>
+</dict>
+</plist>
